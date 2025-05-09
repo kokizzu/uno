@@ -94,6 +94,9 @@
     - name: Tube Player
       topicHref: xref:Workshop.TubePlayer.Overview
       href: external/workshops/tube-player/toc.yml
+    - name: Chefs
+      href: external/uno.chefs/doc/toc.yml
+      topicHref: xref:Uno.Chefs.Overview
     - name: Tutorials
       topicHref: xref:Uno.Tutorials.Intro
       items:
@@ -434,6 +437,27 @@
         href: xref:Uno.HotDesign.GetStarted.Guide
       - name: Counter Tutorial
         href: xref:Uno.HotDesign.GetStarted.CounterTutorial
+      - name: Toolbar
+        href: xref:Uno.HotDesign.Toolbar
+      - name: Toolbox
+        href: xref:Uno.HotDesign.Toolbox
+      - name: Elements
+        href: xref:Uno.HotDesign.Elements
+      - name: Canvas
+        href: xref:Uno.HotDesign.Canvas
+      - name: Properties
+        href: xref:Uno.HotDesign.Properties
+        items:
+        - name: General
+          href: xref:Uno.HotDesign.Properties
+        - name: Editors
+          href: xref:Uno.HotDesign.Properties.Editors
+        - name: Advanced Flyout
+          href: xref:Uno.HotDesign.Properties.AdvancedFlyout
+        - name: Responsive Extensions
+          href: xref:Uno.HotDesign.Properties.AdvancedFlyout.ResponsiveExtensions
+        - name: Template Editor
+          href: xref:Uno.HotDesign.Properties.TemplateEditor
     - name: Design-to-Code
       href: external/figma-docs/toc.yml
     - name: Feedback
